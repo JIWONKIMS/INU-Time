@@ -1,0 +1,1326 @@
+/* 수업별게시판 */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+border-radius: 46px;
+
+
+/* 수업별게시판 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 160px;
+top: 51px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 30px;
+height: 16.73px;
+left: 51px;
+top: 55px;
+
+background: url(image);
+
+
+/* Images / Bitmap / Rounded r=10 */
+
+position: absolute;
+height: 234px;
+left: 21px;
+right: 20px;
+top: 116px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Basic / Light - #FFFFFF */
+background: #FFFFFF;
+border-radius: 10px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border: 2px solid rgba(171, 171, 171, 0.6);
+border-radius: 10px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Attribute */
+
+position: absolute;
+width: 28px;
+height: 30px;
+right: 8px;
+top: 8px;
+
+
+
+/* Shape */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* 내 강의 */
+
+position: absolute;
+width: 59px;
+height: 24px;
+left: 30px;
+top: 85px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Group 3 */
+
+position: absolute;
+width: 90px;
+height: 39px;
+left: 27px;
+top: 116px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 131px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 116px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* vuesax/linear/arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 123px;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 123px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 15.06%;
+bottom: 83.07%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 17.42%;
+bottom: 79.74%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 90px;
+height: 39px;
+left: 27px;
+top: 116px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 131px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 116px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 123px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 15.06%;
+bottom: 83.07%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 17.42%;
+bottom: 79.74%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Group 6 */
+
+position: absolute;
+width: 90px;
+height: 78px;
+left: 27px;
+top: 272px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 287px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 272px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 279px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 33.54%;
+bottom: 64.58%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 35.9%;
+bottom: 61.26%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 90px;
+height: 39px;
+left: 27px;
+top: 311px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 326px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 311px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 318px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 38.16%;
+bottom: 59.96%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 40.52%;
+bottom: 56.64%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Group 5 */
+
+position: absolute;
+width: 90px;
+height: 117px;
+left: 27px;
+top: 155px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 170px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 162px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 19.68%;
+bottom: 78.45%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 22.04%;
+bottom: 75.12%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 90px;
+height: 78px;
+left: 27px;
+top: 194px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 209px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 194px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 201px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 24.3%;
+bottom: 73.82%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 26.66%;
+bottom: 70.5%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Exclude */
+
+position: absolute;
+width: nanpx;
+height: nanpx;
+left: nanpx;
+top: nanpx;
+
+background: #DADADA;
+transform: matrix(nan, nan, nan, nan, nan, nan);
+
+
+/* Group 4 */
+
+position: absolute;
+width: 90px;
+height: 39px;
+left: 27px;
+top: 233px;
+
+
+
+/* OOO */
+
+position: absolute;
+width: 28px;
+height: 24px;
+left: 48px;
+top: 248px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 47px;
+top: 233px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* arrow-right */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 27px;
+top: 240px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.21%;
+right: 88.97%;
+top: 28.92%;
+bottom: 69.2%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.08%;
+right: 80.77%;
+top: 31.28%;
+bottom: 65.88%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Rectangle 64 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: 0px;
+top: 775px;
+
+background: #7FB3FA;
+
+
+/* Vector */
+
+position: absolute;
+left: 35.64%;
+right: 58.72%;
+top: 94.43%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 234px;
+top: 794px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 15.62%;
+bottom: 12.5%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.51%;
+right: 83.08%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.36%;
+right: 9.23%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 8px;
+right: 7px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 21px;
+top: 45px;
+
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.39%;
+right: 56.75%;
+top: 33.14%;
+bottom: 33.14%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.86%;
+right: 26.39%;
+top: 50%;
+bottom: 50%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: -50%;
+top: 83.33%;
+bottom: -50%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 7px;
+right: 8px;
+top: 0px;
+
+
+
+/* Notch */
+
+position: absolute;
+height: 30px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+left: 77px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+visibility: hidden;
+left: 121px;
+right: 121px;
+top: 0%;
+bottom: 0%;
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+right: 33px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Status Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 69px;
+height: 14px;
+right: 14px;
+top: 16px;
+
+
+
+/* Network Signal / Light
+
+Network Signal Strength • Light
+*/
+
+width: 20px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Empty Bar */
+
+position: absolute;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+background: rgba(60, 60, 67, 0.18);
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Empty Bar */
+
+position: absolute;
+visibility: hidden;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+/* Label Light / Primary */
+background: #000000;
+
+
+/* WiFi Signal / Light */
+
+width: 16px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 37.11%;
+right: 35.56%;
+top: 63.85%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 21.66%;
+right: 20.1%;
+top: 39.07%;
+bottom: 37.26%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 6.25%;
+right: 4.69%;
+top: 14.29%;
+bottom: 54.84%;
+
+background: #000000;
+
+
+/* Battery / Light */
+
+width: 25px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 􀋦 */
+
+position: absolute;
+visibility: hidden;
+width: 8px;
+height: 12px;
+left: 8px;
+top: 1px;
+
+/* Label Dark / Primary */
+background: #FFFFFF;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+/* Label Dark / Tertiary */
+background: rgba(235, 235, 245, 0.3);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1px;
+height: 4px;
+left: 24px;
+top: 5px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Battery */
+
+position: absolute;
+visibility: hidden;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+
+
+/* 100 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 50 */
+
+position: absolute;
+visibility: hidden;
+width: 8.45px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 10 */
+
+position: absolute;
+visibility: hidden;
+width: 3px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Dark / Yellow */
+background: #FFD60A;
+
+
+/* Rectangle 21 (Stroke) */
+
+position: absolute;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: calc(50% - 8px/2);
+
+background: #000000;
+border-radius: 1px;
+
+
+/* Indicator
+
+Recording Indicator
+*/
+
+position: absolute;
+width: 6px;
+height: 6px;
+right: 71px;
+top: 8px;
+
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* SystemGreen / Light
+
+class var systemGreen: UIColor
+*/
+background: #34C759;
+
+
+/* Time / Light */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 12px;
+
+border-radius: 20px;
+
+
+/* 9:41 */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: calc(50% - 33px/2 + 0.5px);
+top: calc(50% - 15px/2);
+
+
+
+/* 9:41 */
+
+position: absolute;
+width: 28.43px;
+height: 11.09px;
+left: calc(50% - 28.43px/2 - 0.29px);
+top: calc(50% - 11.09px/2 + 0.04px);
+
+background: #000000;

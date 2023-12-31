@@ -1,0 +1,2054 @@
+/* 그룹채팅 */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+border-radius: 46px;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 89px;
+
+border: 1px solid #D1D1D6;
+
+
+/* 체팅 */
+
+position: absolute;
+width: 35px;
+height: 28px;
+left: 21px;
+top: 52px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Icon / magnifyingglass */
+
+position: absolute;
+width: 17px;
+height: 17.16px;
+right: 61px;
+top: calc(50% - 17.16px/2 - 357.42px);
+
+background: #000000;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: 0px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: 0px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: 0px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 344px;
+top: 53px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.19%;
+right: 14.19%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 1.5px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 37.5%;
+right: 37.5%;
+top: 37.5%;
+bottom: 37.5%;
+
+border: 1.5px solid #000000;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 297px;
+top: 754px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 35.38%;
+right: 58.97%;
+top: 94.43%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 233px;
+top: 794px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 15.62%;
+bottom: 12.5%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 83px;
+top: 653px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.26%;
+right: 83.33%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 69px;
+top: 588px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 84.1%;
+right: 9.49%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* top-app-bar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 4px;
+gap: 4px;
+
+position: absolute;
+width: 393px;
+height: 64px;
+left: -3px;
+top: 92px;
+
+
+
+/* leading-icon
+
+Icon buttons display actions in a compact layout. Icon buttons can represent opening actions such as opening an overflow menu or search, or represent binary actions that can be toggled on and off, such as favorite or bookmark.
+
+Icon buttons can be grouped together or they can stand alone.
+
+Standard Icon buttons are low-emphasis buttons.
+They are used for the lowest priority actions, especially when presenting multiple options.
+
+Icon buttons can be placed on a variety of backgrounds. Until the button is interacted with, its container isn’t visible.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* state-layer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icons/arrow_back_24px
+
+arrow, arrows, direction, left, android, back, previous
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #000000;
+
+
+/* headline */
+
+width: 233px;
+height: 28px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* trailing-icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 96px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* trailing-icon 1
+
+Icon buttons display actions in a compact layout. Icon buttons can represent opening actions such as opening an overflow menu or search, or represent binary actions that can be toggled on and off, such as favorite or bookmark.
+
+Icon buttons can be grouped together or they can stand alone.
+
+Standard Icon buttons are low-emphasis buttons.
+They are used for the lowest priority actions, especially when presenting multiple options.
+
+Icon buttons can be placed on a variety of backgrounds. Until the button is interacted with, its container isn’t visible.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* trailing-icon 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 40px;
+height: 40.04px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* state-layer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 10px;
+
+width: 40px;
+height: 40.04px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 🦆 icon "notification active" */
+
+width: 24px;
+height: 24.04px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20%;
+right: 20%;
+top: 19.98%;
+bottom: 19.98%;
+
+background: #000000;
+
+
+/* trailing-icon 3
+
+Icon buttons display actions in a compact layout. Icon buttons can represent opening actions such as opening an overflow menu or search, or represent binary actions that can be toggled on and off, such as favorite or bookmark.
+
+Icon buttons can be grouped together or they can stand alone.
+
+Standard Icon buttons are low-emphasis buttons.
+They are used for the lowest priority actions, especially when presenting multiple options.
+
+Icon buttons can be placed on a variety of backgrounds. Until the button is interacted with, its container isn’t visible.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* state-layer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 10px;
+
+width: 40px;
+height: 40px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icons/more_vert_24px
+
+more, vert, vertical, three, dots, etc, 3, android
+*/
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icon */
+
+position: absolute;
+left: 41.67%;
+right: 41.67%;
+top: 16.67%;
+bottom: 16.67%;
+
+background: #000000;
+
+
+/* 패션산업학과 20 */
+
+position: absolute;
+width: 111px;
+height: 28px;
+left: 51px;
+top: 140px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+color: #000000;
+
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 357px;
+height: 431px;
+left: 17px;
+top: 180px;
+
+
+
+/* Frame 33 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 357px;
+height: 97px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 5 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 295px;
+height: 97px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 295px;
+height: 84px;
+
+background: #000000;
+border-radius: 30px 30px 30px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqui. */
+
+width: 271px;
+height: 60px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-transform: capitalize;
+
+/* sami white */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 5px;
+gap: 10px;
+
+width: 32px;
+height: 13px;
+
+border-radius: 0px 0px 8px 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 10 aM */
+
+width: 22px;
+height: 9px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 7px;
+line-height: 9px;
+/* identical to box height */
+text-transform: capitalize;
+
+/* secondary main */
+color: #3D3D3D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 34 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 12px;
+
+width: 357px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+
+width: 295px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 160px;
+height: 39px;
+
+background: #868383;
+border-radius: 30px 30px 0px 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit */
+
+width: 136px;
+height: 15px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-transform: capitalize;
+
+/* sami white */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 5px;
+gap: 10px;
+
+width: 32px;
+height: 13px;
+
+border-radius: 0px 0px 8px 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 10 aM */
+
+width: 22px;
+height: 9px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 7px;
+line-height: 9px;
+/* identical to box height */
+text-transform: capitalize;
+
+/* secondary main */
+color: #3D3D3D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 5 */
+
+width: 50px;
+height: 50px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 37 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 357px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+
+width: 295px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 295px;
+height: 54px;
+
+background: #868383;
+border-radius: 30px 30px 0px 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing */
+
+width: 271px;
+height: 30px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-transform: capitalize;
+
+/* sami white */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 5px;
+gap: 10px;
+
+width: 32px;
+height: 13px;
+
+border-radius: 0px 0px 8px 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 10 aM */
+
+width: 22px;
+height: 9px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 7px;
+line-height: 9px;
+/* identical to box height */
+text-transform: capitalize;
+
+/* secondary main */
+color: #3D3D3D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 5 */
+
+width: 50px;
+height: 50px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 38 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 357px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Ellipse 5 */
+
+width: 50px;
+height: 50px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 295px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 295px;
+height: 54px;
+
+background: #000000;
+border-radius: 30px 30px 30px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* sed do eiusmod tempor incididunt ut labore et */
+
+width: 271px;
+height: 30px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-transform: capitalize;
+
+/* sami white */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 27 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 5px;
+gap: 10px;
+
+width: 32px;
+height: 13px;
+
+border-radius: 0px 0px 8px 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 10 aM */
+
+width: 22px;
+height: 9px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 7px;
+line-height: 9px;
+/* identical to box height */
+text-transform: capitalize;
+
+/* secondary main */
+color: #3D3D3D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 39 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 357px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 31 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+
+width: 295px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 26 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 46px;
+height: 39px;
+
+background: #868383;
+border-radius: 30px 30px 0px 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ok */
+
+width: 271px;
+height: 15px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+text-transform: capitalize;
+
+/* sami white */
+color: #F2F2F2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 28 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 2px 5px;
+gap: 10px;
+
+width: 32px;
+height: 13px;
+
+border-radius: 0px 0px 8px 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 10 aM */
+
+width: 22px;
+height: 9px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 7px;
+line-height: 9px;
+/* identical to box height */
+text-transform: capitalize;
+
+/* secondary main */
+color: #3D3D3D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 5 */
+
+width: 50px;
+height: 50px;
+
+background: url(image);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* search-bar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+left: 3.85%;
+right: 4.62%;
+top: 81.52%;
+bottom: 11.85%;
+
+/* white */
+background: #FFFFFF;
+box-shadow: 0px 0px 14px 3px rgba(0, 0, 0, 0.12);
+border-radius: 28px;
+
+
+/* state-layer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 4px;
+
+width: 357px;
+height: 56px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Leading-icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 39px;
+height: 39px;
+
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* state-layer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px;
+gap: 10px;
+
+width: 39px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 🦆 icon "Emoji" */
+
+width: 23px;
+height: 23px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.51%;
+right: 20.51%;
+top: 20.51%;
+bottom: 20.51%;
+
+/* secondary main */
+background: #3D3D3D;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 245px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* supporting-text */
+
+width: 156px;
+height: 24px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+display: flex;
+align-items: center;
+letter-spacing: 0.5px;
+
+/* secondary main */
+color: #3D3D3D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Trailing-Elements */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 1st trailing-icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 46px;
+height: 46px;
+
+background: #01499A;
+border-radius: 100px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* state-layer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 13px 13px 8px 8px;
+gap: 10px;
+
+width: 46px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 🦆 icon "send" */
+
+width: 25px;
+height: 25px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.85%;
+right: 28.26%;
+top: 28.26%;
+bottom: 41.85%;
+
+/* sami white */
+border: 2px solid #F2F2F2;
+
+
+/* Vector */
+
+position: absolute;
+left: 17.39%;
+right: 28.26%;
+top: 28.26%;
+bottom: 17.39%;
+
+/* sami white */
+border: 2px solid #F2F2F2;
+
+
+/* 2nd trailing-icon
+
+Icon buttons display actions in a compact layout. Icon buttons can represent opening actions such as opening an overflow menu or search, or represent binary actions that can be toggled on and off, such as favorite or bookmark.
+
+Icon buttons can be grouped together or they can stand alone.
+
+Standard Icon buttons are low-emphasis buttons.
+They are used for the lowest priority actions, especially when presenting multiple options.
+
+Icon buttons can be placed on a variety of backgrounds. Until the button is interacted with, its container isn’t visible.
+*/
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+display: none;
+width: 48px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 7px;
+right: 8px;
+top: 0px;
+
+
+
+/* Notch */
+
+position: absolute;
+height: 30px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+left: 77px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+visibility: hidden;
+left: 121px;
+right: 121px;
+top: 0%;
+bottom: 0%;
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+right: 33px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Status Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 69px;
+height: 14px;
+right: 14px;
+top: 16px;
+
+
+
+/* Network Signal / Light
+
+Network Signal Strength • Light
+*/
+
+width: 20px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Empty Bar */
+
+position: absolute;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+background: rgba(60, 60, 67, 0.18);
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Empty Bar */
+
+position: absolute;
+visibility: hidden;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+/* Label Light / Primary */
+background: #000000;
+
+
+/* WiFi Signal / Light */
+
+width: 16px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 37.11%;
+right: 35.56%;
+top: 63.85%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 21.66%;
+right: 20.1%;
+top: 39.07%;
+bottom: 37.26%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 6.25%;
+right: 4.69%;
+top: 14.29%;
+bottom: 54.84%;
+
+background: #000000;
+
+
+/* Battery / Light */
+
+width: 25px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 􀋦 */
+
+position: absolute;
+visibility: hidden;
+width: 8px;
+height: 12px;
+left: 8px;
+top: 1px;
+
+/* Label Dark / Primary */
+background: #FFFFFF;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+/* Label Dark / Tertiary */
+background: rgba(235, 235, 245, 0.3);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1px;
+height: 4px;
+left: 24px;
+top: 5px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Battery */
+
+position: absolute;
+visibility: hidden;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+
+
+/* 100 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 50 */
+
+position: absolute;
+visibility: hidden;
+width: 8.45px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 10 */
+
+position: absolute;
+visibility: hidden;
+width: 3px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Dark / Yellow */
+background: #FFD60A;
+
+
+/* Rectangle 21 (Stroke) */
+
+position: absolute;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: calc(50% - 8px/2);
+
+background: #000000;
+border-radius: 1px;
+
+
+/* Indicator
+
+Recording Indicator
+*/
+
+position: absolute;
+width: 6px;
+height: 6px;
+right: 71px;
+top: 8px;
+
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* SystemGreen / Light
+
+class var systemGreen: UIColor
+*/
+background: #34C759;
+
+
+/* Time / Light */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 12px;
+
+border-radius: 20px;
+
+
+/* 9:41 */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: calc(50% - 33px/2 + 0.5px);
+top: calc(50% - 15px/2);
+
+
+
+/* 9:41 */
+
+position: absolute;
+width: 28.43px;
+height: 11.09px;
+left: calc(50% - 28.43px/2 - 0.29px);
+top: calc(50% - 11.09px/2 + 0.04px);
+
+background: #000000;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 7px;
+right: 8px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;

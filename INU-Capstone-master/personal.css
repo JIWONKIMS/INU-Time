@@ -1,0 +1,1956 @@
+/* 개인설정페이지 */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+border-radius: 46px;
+
+
+/* Vector 13 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 93px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.14deg);
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 19px;
+top: 8px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 30px;
+height: 16.73px;
+left: 35px;
+top: 42px;
+
+background: url(image);
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1px;
+top: 2px;
+
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 0px;
+top: 32px;
+
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.39%;
+right: 56.75%;
+top: 33.14%;
+bottom: 33.14%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.86%;
+right: 26.39%;
+top: 50%;
+bottom: 50%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: -50%;
+top: 83.33%;
+bottom: -50%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Icon / magnifyingglass */
+
+position: absolute;
+width: 17px;
+height: 17.16px;
+left: 347px;
+top: 52px;
+
+
+
+/* Icon / magnifyingglass */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Label Color/Light/Secondary */
+background: rgba(60, 60, 67, 0.6);
+
+
+/* 개인설정페이지 */
+
+position: absolute;
+width: 46px;
+height: 20px;
+left: 164px;
+top: 50px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 24px;
+/* or 126% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Content */
+
+position: absolute;
+height: 186px;
+left: -0.26%;
+right: 4.1%;
+top: 101px;
+
+
+
+/* Background */
+
+position: absolute;
+height: 186px;
+left: -0.26%;
+right: 4.1%;
+top: 101px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Backgrounds / Transparent */
+
+
+/* ↓ Divider */
+
+position: absolute;
+visibility: hidden;
+height: 1px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+
+
+
+/* ↑ Divider */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* _Assets / Actions / More • Accent */
+
+position: absolute;
+width: 35px;
+height: 28px;
+right: 17px;
+top: 246px;
+
+
+
+/* Container */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+
+
+/* Color */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+/* Accent / Blue - 007AFF */
+background: #007AFF;
+border-radius: 100px;
+
+
+/* Color */
+
+position: absolute;
+width: 28px;
+height: 28px;
+left: calc(50% - 28px/2 + 0.5px);
+top: calc(50% - 28px/2);
+
+/* Accent / Blue - 007AFF */
+background: #007AFF;
+border-radius: 100px;
+
+
+/* Icon */
+
+position: absolute;
+left: 28.57%;
+right: 25.71%;
+top: 42.86%;
+bottom: 42.86%;
+
+/* Basic / Light - #FFFFFF */
+background: #FFFFFF;
+
+
+/* Oval */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: calc(50% - 4px/2 - 5.5px);
+top: calc(50% - 4px/2);
+
+background: #FFFFFF;
+
+
+/* Oval */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: calc(50% - 4px/2 + 0.5px);
+top: calc(50% - 4px/2);
+
+background: #FFFFFF;
+
+
+/* Oval */
+
+position: absolute;
+width: 4px;
+height: 4px;
+left: calc(50% - 4px/2 + 6.5px);
+top: calc(50% - 4px/2);
+
+background: #FFFFFF;
+
+
+/* Controls / Button / Small • Accent */
+
+position: absolute;
+width: 74px;
+height: 30px;
+left: 150px;
+top: 244px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+border-radius: 17px;
+
+
+/* Background */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Basic / Dark - #000000 */
+background: #000000;
+border-radius: 17px;
+
+
+/* • Button Fill */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Rectangle */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+/* Accent / Blue - 007AFF */
+background: #007AFF;
+
+
+/* Label */
+
+position: absolute;
+left: 4px;
+right: 4px;
+top: 0px;
+bottom: 0px;
+
+
+
+/* modify */
+
+position: absolute;
+width: 52px;
+height: 20px;
+left: calc(50% - 52px/2);
+top: calc(50% - 20px/2);
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+/* Basic / Light - #FFFFFF */
+color: #FFFFFF;
+
+
+
+/* 성별 */
+
+position: absolute;
+width: 177px;
+height: 20px;
+left: 162px;
+top: 216px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+letter-spacing: -0.24px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+opacity: 0.4;
+
+
+/* 학번 */
+
+position: absolute;
+width: 177px;
+height: 20px;
+left: 162px;
+top: 176px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+letter-spacing: -0.24px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+opacity: 0.4;
+
+
+/* 학과 */
+
+position: absolute;
+width: 177px;
+height: 20px;
+left: 162px;
+top: 196px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+letter-spacing: -0.24px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+opacity: 0.4;
+
+
+/* ↳ 닉네임 */
+
+position: absolute;
+height: 28px;
+left: 161px;
+right: 19px;
+top: 148px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+letter-spacing: 0.35px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+
+
+/* ↳ 이름 */
+
+position: absolute;
+height: 28px;
+left: 161px;
+right: 19px;
+top: 120px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+/* identical to box height, or 127% */
+letter-spacing: 0.35px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+
+
+/* Image */
+
+position: absolute;
+width: 118px;
+height: 118px;
+left: 21px;
+top: 120px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Vector 14 */
+
+position: absolute;
+width: 398px;
+height: 0px;
+left: -1px;
+top: 287px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.14deg);
+
+
+/* Frame 4 */
+
+position: absolute;
+width: 390px;
+height: 338px;
+left: 0px;
+top: 429px;
+
+
+
+/* Rectangle 25 */
+
+position: absolute;
+width: 390px;
+height: 43px;
+left: -1px;
+top: -4px;
+
+background: #D9D9D9;
+
+
+/* Vector 21 */
+
+position: absolute;
+width: 397px;
+height: 0px;
+left: -4px;
+top: 337.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.29deg);
+
+
+/* Vector 20 */
+
+position: absolute;
+width: 397px;
+height: 0px;
+left: -4px;
+top: 294.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.29deg);
+
+
+/* Vector 19 */
+
+position: absolute;
+width: 397px;
+height: 0px;
+left: -7px;
+top: 165.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.29deg);
+
+
+/* Vector 18 */
+
+position: absolute;
+width: 397px;
+height: 0px;
+left: 2px;
+top: 208.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.29deg);
+
+
+/* Vector 17 */
+
+position: absolute;
+width: 397px;
+height: 0px;
+left: -7px;
+top: 122.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.29deg);
+
+
+/* Vector 16 */
+
+position: absolute;
+width: 397px;
+height: 0px;
+left: 2px;
+top: 251.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.29deg);
+
+
+/* Vector 15 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 80.98px;
+
+border: 1px solid #D5DEE7;
+transform: rotate(-0.14deg);
+
+
+/* Image */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 8px;
+top: 170px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 8px;
+top: 127px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 8px;
+top: 43px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 8px;
+top: 85px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 8px;
+top: 213px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* 계정 */
+
+position: absolute;
+width: 28px;
+height: 20px;
+left: 173px;
+top: 9px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 푸시 알림 설정 */
+
+position: absolute;
+width: 87px;
+height: 20px;
+left: 54px;
+top: 135px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 비밀번호 변경 */
+
+position: absolute;
+width: 85px;
+height: 20px;
+left: 54px;
+top: 51px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 학과 인증 */
+
+position: absolute;
+width: 58px;
+height: 20px;
+left: 54px;
+top: 92px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 이메일 변경 */
+
+position: absolute;
+width: 71px;
+height: 20px;
+left: 54px;
+top: 176px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 계정 관리 */
+
+position: absolute;
+width: 58px;
+height: 20px;
+left: 54px;
+top: 219px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 검정 태마 */
+
+position: absolute;
+width: 58px;
+height: 20px;
+left: 54px;
+top: 263px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Frame 5 */
+
+position: absolute;
+width: 389px;
+height: 141px;
+left: 0px;
+top: 288px;
+
+
+
+/* 내 활동 */
+
+position: absolute;
+width: 44px;
+height: 20px;
+left: 8px;
+top: 7px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 내가 쓴 글 */
+
+position: absolute;
+width: 60px;
+height: 20px;
+left: 30px;
+bottom: 25px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 댓글 단 글 */
+
+position: absolute;
+width: 60px;
+height: 20px;
+left: 124px;
+bottom: 25px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 스크랩 */
+
+position: absolute;
+width: 41px;
+height: 20px;
+left: 225px;
+bottom: 25px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* 내 평점 */
+
+position: absolute;
+width: 44px;
+height: 20px;
+left: 311px;
+bottom: 25px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height, or 133% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.24px;
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Image */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 35px;
+bottom: 55px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 129px;
+top: 36px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 221px;
+top: 36px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Image */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 309px;
+top: 36px;
+
+
+
+/* Mask */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* ▪︎ Bitmap */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(Image);
+border-radius: 1000px;
+
+
+/* Scrims */
+
+position: absolute;
+visibility: hidden;
+left: 0px;
+right: -3px;
+top: 0px;
+bottom: -3px;
+
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: -3px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: -3px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: -3px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Rectangle 61 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: -3px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Rectangle 62 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: -3px;
+top: 774px;
+
+background: #7FB3FA;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.62%;
+right: 59.74%;
+top: 94.43%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 230px;
+top: 794px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 15.62%;
+bottom: 12.5%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.49%;
+right: 84.1%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: 10.26%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 4px;
+right: 11px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 7px;
+right: 8px;
+top: 0px;
+
+
+
+/* Notch */
+
+position: absolute;
+height: 30px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+left: 77px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+visibility: hidden;
+left: 121px;
+right: 121px;
+top: 0%;
+bottom: 0%;
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+right: 33px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Status Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 69px;
+height: 14px;
+right: 14px;
+top: 16px;
+
+
+
+/* Network Signal / Light
+
+Network Signal Strength • Light
+*/
+
+width: 20px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Empty Bar */
+
+position: absolute;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+background: rgba(60, 60, 67, 0.18);
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Empty Bar */
+
+position: absolute;
+visibility: hidden;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+/* Label Light / Primary */
+background: #000000;
+
+
+/* WiFi Signal / Light */
+
+width: 16px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 37.12%;
+right: 35.56%;
+top: 63.85%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 21.66%;
+right: 20.1%;
+top: 39.07%;
+bottom: 37.26%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 6.25%;
+right: 4.69%;
+top: 14.29%;
+bottom: 54.84%;
+
+background: #000000;
+
+
+/* Battery / Light */
+
+width: 25px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 􀋦 */
+
+position: absolute;
+visibility: hidden;
+width: 8px;
+height: 12px;
+left: 8px;
+top: 1px;
+
+/* Label Dark / Primary */
+background: #FFFFFF;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+/* Label Dark / Tertiary */
+background: rgba(235, 235, 245, 0.3);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1px;
+height: 4px;
+left: 24px;
+top: 5px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Battery */
+
+position: absolute;
+visibility: hidden;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+
+
+/* 100 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 50 */
+
+position: absolute;
+visibility: hidden;
+width: 8.45px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 10 */
+
+position: absolute;
+visibility: hidden;
+width: 3px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Dark / Yellow */
+background: #FFD60A;
+
+
+/* Rectangle 21 (Stroke) */
+
+position: absolute;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: calc(50% - 8px/2);
+
+background: #000000;
+border-radius: 1px;
+
+
+/* Indicator
+
+Recording Indicator
+*/
+
+position: absolute;
+width: 6px;
+height: 6px;
+right: 71px;
+top: 8px;
+
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* SystemGreen / Light
+
+class var systemGreen: UIColor
+*/
+background: #34C759;
+
+
+/* Time / Light */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 12px;
+
+border-radius: 20px;
+
+
+/* 9:41 */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: calc(50% - 33px/2 + 0.5px);
+top: calc(50% - 15px/2);
+
+
+
+/* 9:41 */
+
+position: absolute;
+width: 28.43px;
+height: 11.09px;
+left: calc(50% - 28.43px/2 - 0.29px);
+top: calc(50% - 11.09px/2 + 0.04px);
+
+background: #000000;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 7px;
+right: 8px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;

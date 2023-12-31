@@ -1,0 +1,2761 @@
+/* 수업별게시판2 */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+border-radius: 46px;
+
+
+/* image 3 */
+
+position: absolute;
+width: 30px;
+height: 16.73px;
+left: 51px;
+top: 55px;
+
+background: url(image);
+
+
+/* 수업별게시판 */
+
+position: absolute;
+width: 70px;
+height: 24px;
+left: 160px;
+top: 49px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* 캡스톤디자인 */
+
+position: absolute;
+width: 54px;
+height: 48px;
+left: 168px;
+top: 63px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* Sign Up */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 73px;
+gap: 10px;
+
+position: absolute;
+width: 204px;
+height: 49px;
+left: 92px;
+top: 745px;
+
+background: #FFFFFF;
+border: 1px solid #01499A;
+border-radius: 18px;
+
+
+/* Sign Up */
+
+display: none;
+width: 42px;
+height: 16px;
+
+font-family: 'AppleGothic';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+/* Grayscale/4 */
+color: #F4F6F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sign Up */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 15px 73px;
+gap: 10px;
+
+position: absolute;
+width: 204px;
+height: 49px;
+left: 92px;
+top: 745px;
+
+background: #FFFFFF;
+border: 1px solid #01499A;
+border-radius: 18px;
+
+
+/* Sign Up */
+
+display: none;
+width: 42px;
+height: 16px;
+
+font-family: 'AppleGothic';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height */
+text-align: center;
+
+/* Grayscale/4 */
+color: #F4F6F5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* _Glyphs / Quick Action / Edit */
+
+position: absolute;
+left: 32.56%;
+right: 58.21%;
+top: 89.1%;
+bottom: 6.64%;
+
+
+
+/* Icon */
+
+position: absolute;
+width: 23px;
+height: 23px;
+left: calc(50% - 23px/2 + 1px);
+top: calc(50% - 23px/2 - 1px);
+
+background: linear-gradient(0deg, #01499A, #01499A), #4D4D4D;
+background-blend-mode: normal, color-burn;
+
+
+/* Shape */
+
+position: absolute;
+width: 20.18px;
+height: 20.07px;
+left: calc(50% - 20.18px/2 - 0.41px);
+top: calc(50% - 20.07px/2 + 0.46px);
+
+background: rgba(255, 255, 255, 0.0001);
+
+
+/* Shape */
+
+position: absolute;
+width: 13.27px;
+height: 13.19px;
+left: calc(50% - 13.27px/2 + 4.24px);
+top: calc(50% - 13.19px/2 - 4.28px);
+
+background: rgba(255, 255, 255, 0.0001);
+
+
+/* Shape */
+
+position: absolute;
+width: 2.99px;
+height: 2.98px;
+left: calc(50% - 2.99px/2 + 11px);
+top: calc(50% - 2.98px/2 - 11.01px);
+
+background: rgba(255, 255, 255, 0.0001);
+
+
+/* 글 작성 */
+
+position: absolute;
+width: 65px;
+height: 24px;
+left: 174px;
+top: 756px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 24px;
+/* identical to box height, or 109% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 131px;
+
+
+
+/* 수업 관련된 질문을 자유롭게 할 수 있습니다. */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 131px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 11 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 95px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 16 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 191px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 390px;
+height: 84px;
+left: -21px;
+top: 107px;
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 107px;
+
+
+
+/* 수업 관련 질문 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 107px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -21px;
+top: 191px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 17 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 191px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 18 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 191px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 515px;
+
+
+
+/* 수업 관련된 질문을 자유롭게 할 수 있습니다. */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 515px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 31 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 479px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 32 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 575px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 390px;
+height: 84px;
+left: -21px;
+top: 491px;
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 491px;
+
+
+
+/* 수업 관련 질문 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 491px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -21px;
+top: 575px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 33 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 575px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 34 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 575px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 419px;
+
+
+
+/* 수업 관련된 질문을 자유롭게 할 수 있습니다. */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 419px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 27 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 383px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 28 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 479px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 390px;
+height: 84px;
+left: -21px;
+top: 395px;
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 395px;
+
+
+
+/* 수업 관련 질문 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 395px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -21px;
+top: 479px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 29 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 479px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 30 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 479px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 227px;
+
+
+
+/* 수업 관련된 질문을 자유롭게 할 수 있습니다. */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 227px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 19 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 191px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 20 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 287px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 390px;
+height: 84px;
+left: -21px;
+top: 203px;
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 203px;
+
+
+
+/* 수업 관련 질문 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 203px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -21px;
+top: 287px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 21 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 287px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 22 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 287px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 323px;
+
+
+
+/* 수업 관련된 질문을 자유롭게 할 수 있습니다. */
+
+position: absolute;
+width: 236px;
+height: 24px;
+left: 32px;
+top: 323px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 23 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 287px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 24 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 383px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 390px;
+height: 84px;
+left: -21px;
+top: 299px;
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 299px;
+
+
+
+/* 수업 관련 질문 */
+
+position: absolute;
+width: 117px;
+height: 24px;
+left: 32px;
+top: 299px;
+
+font-family: 'AppleSDGothicNeoB00';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Vector 5 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -21px;
+top: 383px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 25 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 383px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 26 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 383px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 155px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 19.31%;
+bottom: 79.65%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 - 254.8px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 - 254.63px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 254.36px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 254.36px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 - 254.43px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 155px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 155px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 19.31%;
+bottom: 79.65%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 - 254.8px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 - 254.63px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 254.36px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 254.36px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 - 254.43px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 443px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 443px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 443px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 443px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 53.44%;
+bottom: 45.53%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 + 33.2px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 + 33.37px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 33.64px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 33.64px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 + 33.57px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 443px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 443px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 443px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 443px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 53.44%;
+bottom: 45.53%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 + 33.2px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 + 33.37px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 33.64px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 33.64px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 + 33.57px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 539px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 539px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 539px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 539px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 64.81%;
+bottom: 34.15%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 + 129.2px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 + 129.37px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 129.64px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 129.64px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 + 129.57px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 539px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 539px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 539px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 539px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 64.81%;
+bottom: 34.15%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 + 129.2px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 + 129.37px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 129.64px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 + 129.64px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 + 129.57px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 43px;
+top: 347px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 71px;
+top: 347px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 62px;
+top: 347px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 43px;
+top: 347px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.33%;
+right: 84.1%;
+top: 42.06%;
+bottom: 56.9%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 138px);
+top: calc(50% - 7.16px/2 - 62.8px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 138px);
+top: calc(50% - 8.74px/2 - 62.63px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 158px);
+top: calc(50% - 9.29px/2 - 62.36px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 158px);
+top: calc(50% - 9.29px/2 - 62.36px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 158px);
+top: calc(50% - 7.73px/2 - 62.43px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 43px;
+top: 347px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 71px;
+top: 347px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 62px;
+top: 347px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 43px;
+top: 347px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.33%;
+right: 84.1%;
+top: 42.06%;
+bottom: 56.9%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 138px);
+top: calc(50% - 7.16px/2 - 62.8px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 138px);
+top: calc(50% - 8.74px/2 - 62.63px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 158px);
+top: calc(50% - 9.29px/2 - 62.36px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 158px);
+top: calc(50% - 9.29px/2 - 62.36px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 158px);
+top: calc(50% - 7.73px/2 - 62.43px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 252px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 252px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 252px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 252px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 30.81%;
+bottom: 68.16%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 - 157.8px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 - 157.63px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 157.36px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 157.36px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 - 157.43px);
+
+
+
+/* 중요공지 */
+
+position: absolute;
+width: 156px;
+height: 24px;
+left: 45px;
+top: 252px;
+
+
+
+/* | 1시간 전 | 컴퓨터공학부 OOO */
+
+position: absolute;
+width: 128px;
+height: 24px;
+left: 73px;
+top: 252px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 5 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 64px;
+top: 252px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #01499A;
+
+
+
+/* 3 */
+
+position: absolute;
+width: 6px;
+height: 24px;
+left: 45px;
+top: 252px;
+
+font-family: 'AppleSDGothicNeoM00';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 24px;
+/* identical to box height, or 240% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #FCAF16;
+
+
+
+/* Icon */
+
+position: absolute;
+left: 13.85%;
+right: 83.59%;
+top: 30.81%;
+bottom: 68.16%;
+
+background: #01499A;
+
+
+/* Path */
+
+position: absolute;
+width: 8.77px;
+height: 7.16px;
+left: calc(50% - 8.77px/2 - 136px);
+top: calc(50% - 7.16px/2 - 157.8px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 8.74px;
+left: calc(50% - 10px/2 - 136px);
+top: calc(50% - 8.74px/2 - 157.63px);
+
+
+
+/* Icon */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 157.36px);
+
+background: #FCAF16;
+
+
+/* Path */
+
+position: absolute;
+width: 10px;
+height: 9.29px;
+left: calc(50% - 10px/2 - 156px);
+top: calc(50% - 9.29px/2 - 157.36px);
+
+
+
+/* Path */
+
+position: absolute;
+width: 8.58px;
+height: 7.73px;
+left: calc(50% - 8.58px/2 - 156px);
+top: calc(50% - 7.73px/2 - 157.43px);
+
+
+
+/* Icon / magnifyingglass */
+
+position: absolute;
+width: 17px;
+height: 17.16px;
+right: 23px;
+top: calc(50% - 17.16px/2 - 358.42px);
+
+/* Label Color/Light/Secondary */
+background: rgba(60, 60, 67, 0.6);
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 21px;
+top: 45px;
+
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.39%;
+right: 56.75%;
+top: 33.14%;
+bottom: 33.14%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.86%;
+right: 26.39%;
+top: 50%;
+bottom: 50%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: -50%;
+top: 83.33%;
+bottom: -50%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 7px;
+right: 8px;
+top: 0px;
+
+
+
+/* Notch */
+
+position: absolute;
+height: 30px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+left: 77px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+visibility: hidden;
+left: 121px;
+right: 121px;
+top: 0%;
+bottom: 0%;
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+right: 33px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Status Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 69px;
+height: 14px;
+right: 14px;
+top: 16px;
+
+
+
+/* Network Signal / Light
+
+Network Signal Strength • Light
+*/
+
+width: 20px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Empty Bar */
+
+position: absolute;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+background: rgba(60, 60, 67, 0.18);
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Empty Bar */
+
+position: absolute;
+visibility: hidden;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+/* Label Light / Primary */
+background: #000000;
+
+
+/* WiFi Signal / Light */
+
+width: 16px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 37.11%;
+right: 35.56%;
+top: 63.85%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 21.66%;
+right: 20.1%;
+top: 39.07%;
+bottom: 37.26%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 6.25%;
+right: 4.69%;
+top: 14.29%;
+bottom: 54.84%;
+
+background: #000000;
+
+
+/* Battery / Light */
+
+width: 25px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 􀋦 */
+
+position: absolute;
+visibility: hidden;
+width: 8px;
+height: 12px;
+left: 8px;
+top: 1px;
+
+/* Label Dark / Primary */
+background: #FFFFFF;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+/* Label Dark / Tertiary */
+background: rgba(235, 235, 245, 0.3);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1px;
+height: 4px;
+left: 24px;
+top: 5px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Battery */
+
+position: absolute;
+visibility: hidden;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+
+
+/* 100 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 50 */
+
+position: absolute;
+visibility: hidden;
+width: 8.45px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 10 */
+
+position: absolute;
+visibility: hidden;
+width: 3px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Dark / Yellow */
+background: #FFD60A;
+
+
+/* Rectangle 21 (Stroke) */
+
+position: absolute;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: calc(50% - 8px/2);
+
+background: #000000;
+border-radius: 1px;
+
+
+/* Indicator
+
+Recording Indicator
+*/
+
+position: absolute;
+width: 6px;
+height: 6px;
+right: 71px;
+top: 8px;
+
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* SystemGreen / Light
+
+class var systemGreen: UIColor
+*/
+background: #34C759;
+
+
+/* Time / Light */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 12px;
+
+border-radius: 20px;
+
+
+/* 9:41 */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: calc(50% - 33px/2 + 0.5px);
+top: calc(50% - 15px/2);
+
+
+
+/* 9:41 */
+
+position: absolute;
+width: 28.43px;
+height: 11.09px;
+left: calc(50% - 28.43px/2 - 0.29px);
+top: calc(50% - 11.09px/2 + 0.04px);
+
+background: #000000;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 7px;
+right: 8px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;

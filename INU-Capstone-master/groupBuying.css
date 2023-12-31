@@ -1,0 +1,1329 @@
+/* 공동구매 글 */
+
+position: relative;
+width: 390px;
+height: 844px;
+
+background: #FFFFFF;
+border-radius: 46px;
+
+
+/* Frame 9 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 7px;
+top: 0px;
+
+
+
+/* image 3 */
+
+position: absolute;
+width: 30px;
+height: 16.73px;
+left: 35px;
+top: 42px;
+
+background: url(image);
+
+
+/* Frame 3 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1px;
+top: 2px;
+
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 0px;
+top: 32px;
+
+
+
+/* vuesax/linear/arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* arrow-left */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 6px;
+top: 6px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 26.39%;
+right: 56.75%;
+top: 33.14%;
+bottom: 33.14%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.86%;
+right: 26.39%;
+top: 50%;
+bottom: 50%;
+
+/* Dark/100 */
+border: 1.5px solid #292D32;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: -50%;
+top: 83.33%;
+bottom: -50%;
+
+opacity: 0;
+transform: rotate(-180deg);
+
+
+/* Vector 13 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -1px;
+top: 79px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 14 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 127px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 15 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: 0px;
+top: 172px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* Vector 16 */
+
+position: absolute;
+width: 390px;
+height: 0px;
+left: -3px;
+top: 343px;
+
+/* Light / 60 */
+border: 1px solid #D5DEE7;
+
+
+/* 작성 */
+
+position: absolute;
+width: 41px;
+height: 30px;
+left: 171px;
+top: 38px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 24px;
+/* or 141% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* logos:netflix-icon */
+
+position: absolute;
+left: 2.82%;
+right: 88.97%;
+top: 10.43%;
+bottom: 86.14%;
+
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.04%;
+top: 0%;
+bottom: 0.04%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.3%;
+right: 31.34%;
+top: 16.08%;
+bottom: 16.12%;
+
+background: #B1060F;
+border: 2.956px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.3%;
+right: 31.34%;
+top: 16.08%;
+bottom: 16.12%;
+
+background: radial-gradient(7043.8% 3880.29% at 4834% 2711.87%, #000000 0%, rgba(0, 0, 0, 0) 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 31.3%;
+right: 31.39%;
+top: 16.08%;
+bottom: 16.12%;
+
+background: #E50914;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.3%;
+right: 31.34%;
+top: 16.08%;
+bottom: 16.12%;
+
+background: #B1060F;
+border: 2.956px solid #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.3%;
+right: 31.34%;
+top: 16.08%;
+bottom: 16.12%;
+
+background: radial-gradient(7043.8% 3880.29% at 4834% 2711.87%, #000000 0%, rgba(0, 0, 0, 0) 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 31.3%;
+right: 31.39%;
+top: 16.08%;
+bottom: 16.12%;
+
+background: #E50914;
+
+
+/* OTT NAME */
+
+position: absolute;
+width: 63px;
+height: 24px;
+left: 55px;
+top: 93px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 165px;
+height: 37px;
+left: 218px;
+top: 131px;
+
+background: #F8F8F8;
+
+
+/* Rectangle 60 */
+
+position: absolute;
+width: 95px;
+height: 37px;
+left: 60px;
+top: 130px;
+
+background: #F8F8F8;
+
+
+/* 종료일 */
+
+position: absolute;
+width: 40px;
+height: 24px;
+left: 169px;
+top: 137px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* 참여 인원 */
+
+position: absolute;
+width: 57px;
+height: 24px;
+left: 5px;
+top: 182px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* 금액 */
+
+position: absolute;
+width: 27px;
+height: 24px;
+left: 16px;
+top: 136px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #000000;
+
+
+
+/* Group */
+
+position: absolute;
+left: 10.26%;
+right: 80.51%;
+top: 26.9%;
+bottom: 68.84%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.26%;
+right: 80.51%;
+top: 29.5%;
+bottom: 68.84%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.31%;
+right: 82.56%;
+top: 26.9%;
+bottom: 70.73%;
+
+background: #000000;
+
+
+/* Group */
+
+position: absolute;
+left: 32.56%;
+right: 58.21%;
+top: 26.9%;
+bottom: 68.84%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 32.56%;
+right: 58.21%;
+top: 29.5%;
+bottom: 68.84%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.62%;
+right: 60.26%;
+top: 26.9%;
+bottom: 70.73%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 54.36%;
+right: 36.41%;
+top: 26.9%;
+bottom: 68.84%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 75.13%;
+right: 15.64%;
+top: 26.9%;
+bottom: 68.84%;
+
+background: #000000;
+
+
+/* 이름 */
+
+position: absolute;
+width: 25px;
+height: 24px;
+left: 45px;
+top: 273px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* YYYY.MM.DD참여 */
+
+position: absolute;
+width: 100px;
+height: 24px;
+left: 14px;
+top: 296px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+letter-spacing: 0.38px;
+
+color: #868383;
+
+
+
+/* 주의사항 */
+
+position: absolute;
+width: 387px;
+height: 144px;
+left: -5px;
+top: 517px;
+
+
+
+/* Headline */
+
+position: absolute;
+height: 56px;
+left: 0%;
+right: 3.1%;
+top: 0px;
+
+
+
+/* Backgrounds / Transparent */
+
+position: absolute;
+height: 56px;
+left: 0px;
+right: 12px;
+top: 0px;
+
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* Backgrounds / Transparent */
+
+
+/* ↓ Divider */
+
+position: absolute;
+visibility: hidden;
+height: 1px;
+left: 0px;
+right: 0px;
+bottom: 0px;
+
+
+
+/*  Divider / 16pt 0pt */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 1px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Muted */
+
+position: absolute;
+height: 1px;
+left: 16px;
+right: 0px;
+bottom: -0.5px;
+
+mix-blend-mode: normal;
+opacity: 0.2;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Divider */
+
+position: absolute;
+height: 1px;
+left: 16px;
+right: 0px;
+bottom: -0.5px;
+
+/* Basic / Dark - #000000 */
+background: #000000;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Cells /_/  _Empty */
+
+position: absolute;
+height: 44px;
+left: 48.32%;
+right: 3.1%;
+top: 12px;
+
+
+
+/* INU Time에서 알려드립니다. */
+
+position: absolute;
+width: 273px;
+height: 24px;
+left: 16px;
+top: 18px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+/* or 127% */
+letter-spacing: 0.35px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+
+
+/* Backgrounds / Transparent */
+
+position: absolute;
+height: 87px;
+left: 0px;
+right: 12px;
+top: 143px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Background */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: -100%;
+
+/* Backgrounds / Transparent */
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ↓ Divider */
+
+position: absolute;
+visibility: hidden;
+height: 1px;
+left: 0px;
+right: 0px;
+bottom: 85px;
+
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* ↑ Divider */
+
+position: absolute;
+height: 1px;
+left: 0px;
+right: 0px;
+top: 86px;
+
+
+
+/* ↳ Text */
+
+position: absolute;
+height: 88px;
+left: 16px;
+right: 28px;
+top: 56px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+/* or 129% */
+letter-spacing: -0.41px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+opacity: 0.4;
+
+
+/* 파티주의사항 */
+
+position: absolute;
+width: 387px;
+height: 159px;
+left: 3px;
+top: 348px;
+
+
+
+/* ↳ Text */
+
+position: absolute;
+height: 88px;
+left: 11px;
+right: 33px;
+top: 43px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+/* or 129% */
+letter-spacing: -0.41px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+opacity: 0.4;
+
+
+/* INU Time에서 알려드립니다. */
+
+position: absolute;
+width: 273px;
+height: 24px;
+left: 11px;
+top: 11px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+/* or 127% */
+letter-spacing: 0.35px;
+
+/* Basic / Dark - #000000 */
+color: #000000;
+
+
+
+/* Rectangle 61 */
+
+position: absolute;
+width: 148px;
+height: 51px;
+left: 118px;
+top: 710px;
+
+background: #7FB3FA;
+border-radius: 15px;
+
+
+/* 참여 신청 */
+
+position: absolute;
+width: 97px;
+height: 35px;
+left: 143px;
+top: 726px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 393px;
+height: 70px;
+left: -6px;
+top: 778px;
+
+background: #7FB3FA;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 294px;
+top: 754px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.62%;
+right: 59.74%;
+top: 94.43%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Frame */
+
+position: absolute;
+width: 24px;
+height: 24px;
+left: 230px;
+top: 794px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 15.62%;
+bottom: 12.5%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.49%;
+right: 84.1%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Vector */
+
+position: absolute;
+left: 83.33%;
+right: 10.26%;
+top: 93.96%;
+bottom: 3.08%;
+
+border: 1.5px solid #FFFF66;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 4px;
+right: 11px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;
+
+
+/* Status Bar */
+
+position: absolute;
+height: 44px;
+left: 7px;
+right: 8px;
+top: 0px;
+
+
+
+/* Notch */
+
+position: absolute;
+height: 30px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+left: 77px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+visibility: hidden;
+left: 121px;
+right: 121px;
+top: 0%;
+bottom: 0%;
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 44px;
+height: 30px;
+right: 33px;
+top: calc(50% - 30px/2);
+
+/* System Bg Dark Base / Primary */
+background: #000000;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Status Icons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 4px;
+
+position: absolute;
+width: 69px;
+height: 14px;
+right: 14px;
+top: 16px;
+
+
+
+/* Network Signal / Light
+
+Network Signal Strength • Light
+*/
+
+width: 20px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #D1D1D6;
+
+
+/* Empty Bar */
+
+position: absolute;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+background: rgba(60, 60, 67, 0.18);
+
+
+/* Path */
+
+position: absolute;
+left: 55%;
+right: 30%;
+top: 28.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 32.5%;
+right: 52.5%;
+top: 42.86%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 10%;
+right: 75%;
+top: 53.57%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Empty Bar */
+
+position: absolute;
+visibility: hidden;
+left: 77.5%;
+right: 7.5%;
+top: 14.29%;
+bottom: 14.29%;
+
+/* Label Light / Primary */
+background: #000000;
+
+
+/* WiFi Signal / Light */
+
+width: 16px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Path */
+
+position: absolute;
+left: 37.12%;
+right: 35.56%;
+top: 63.85%;
+bottom: 14.29%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 21.66%;
+right: 20.1%;
+top: 39.07%;
+bottom: 37.26%;
+
+background: #000000;
+
+
+/* Path */
+
+position: absolute;
+left: 6.25%;
+right: 4.69%;
+top: 14.29%;
+bottom: 54.84%;
+
+background: #000000;
+
+
+/* Battery / Light */
+
+width: 25px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 􀋦 */
+
+position: absolute;
+visibility: hidden;
+width: 8px;
+height: 12px;
+left: 8px;
+top: 1px;
+
+/* Label Dark / Primary */
+background: #FFFFFF;
+
+
+/* Subtract */
+
+position: absolute;
+visibility: hidden;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+/* Label Dark / Tertiary */
+background: rgba(235, 235, 245, 0.3);
+
+
+/* Rectangle 23 */
+
+position: absolute;
+width: 1px;
+height: 4px;
+left: 24px;
+top: 5px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Battery */
+
+position: absolute;
+visibility: hidden;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+
+
+/* 100 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 50 */
+
+position: absolute;
+visibility: hidden;
+width: 8.45px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Light / Green */
+background: #34C759;
+
+
+/* 10 */
+
+position: absolute;
+visibility: hidden;
+width: 3px;
+height: 8px;
+left: 2px;
+top: 3px;
+
+/* Color Dark / Yellow */
+background: #FFD60A;
+
+
+/* Rectangle 21 (Stroke) */
+
+position: absolute;
+width: 23px;
+height: 12px;
+left: 0px;
+top: 1px;
+
+background: rgba(60, 60, 67, 0.6);
+
+
+/* Rectangle 20 */
+
+position: absolute;
+width: 19px;
+height: 8px;
+left: 2px;
+top: calc(50% - 8px/2);
+
+background: #000000;
+border-radius: 1px;
+
+
+/* Indicator
+
+Recording Indicator
+*/
+
+position: absolute;
+width: 6px;
+height: 6px;
+right: 71px;
+top: 8px;
+
+
+
+/* Indicator */
+
+position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* SystemGreen / Light
+
+class var systemGreen: UIColor
+*/
+background: #34C759;
+
+
+/* Time / Light */
+
+position: absolute;
+width: 54px;
+height: 21px;
+left: 21px;
+top: 12px;
+
+border-radius: 20px;
+
+
+/* 9:41 */
+
+position: absolute;
+width: 33px;
+height: 15px;
+left: calc(50% - 33px/2 + 0.5px);
+top: calc(50% - 15px/2);
+
+
+
+/* 9:41 */
+
+position: absolute;
+width: 28.43px;
+height: 11.09px;
+left: calc(50% - 28.43px/2 - 0.29px);
+top: calc(50% - 11.09px/2 + 0.04px);
+
+background: #000000;
+
+
+/* Home Indicator */
+
+position: absolute;
+height: 34px;
+left: 7px;
+right: 8px;
+bottom: 0px;
+
+
+
+/* Bar
+
+Bar Appearance
+*/
+
+position: absolute;
+height: 5px;
+left: 120px;
+right: 121px;
+bottom: 8px;
+
+
+
+/* Base */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: #000000;
+border-radius: 10px;
